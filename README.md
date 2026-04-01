@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="962" height="456" alt="image" src="https://github.com/user-attachments/assets/6f378eb3-1a23-4d24-9aff-b18facacac01" />
 
 <!--
 **min06a/min06a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
